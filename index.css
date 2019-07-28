@@ -1,0 +1,23 @@
+.wrapper{
+    max-width:700px;
+    margin:0 auto;
+}
+label{
+    font-weight:bold;
+    font-size:20px;
+}
+.box{
+    width:310px;
+    height:40px;
+    display:block;
+    font-size:18px;
+}
+
+.button{
+    width:100px;
+    height:46px;
+    background-color: blue;
+    color:white;
+    margin-top:18px;
+    border:none;
+}
